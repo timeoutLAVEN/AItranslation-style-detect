@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AItranslationstyledetect
+message: hanyunfei and luluyeshewas
+type: software
+authors:
+  - given-names: Yunfei
+    family-names: Han
+    name-particle: Yunfei
+    email: 104888077@qq.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/timeoutLAVEN/AItranslation-style-detect
+    description: han's github code using MATLAB
+repository-code: 'https://github.com/timeoutLAVEN/AItranslation-style-detect'
+repository: >-
+  https://github.com/yeshewas/Author-s-style-analysis-of-a-writer-for-four-Different-languages-
+abstract: for the article data review
+keywords:
+  - >-
+    translation quality; computational linguistics;
+    Information Theory; individual author's style;
+    information technology; data compression; hypothesis
+    testing
+license: CC-BY-4.0
+date-released: '2026-09-17'
