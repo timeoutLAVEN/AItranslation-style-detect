@@ -3,7 +3,9 @@ This project mainly aims to verify that the RS-method has the ability to detect 
 
 This is mainly the part of my work, Han Yunfei: including the verification of language direction pairs in Chinese-English, English-Chinese, Chinese-Russian, and Russian-Chinese.
 
-test23removerandom.m is the MATLAB running code. The files below whose suffixes are marked with the translation model are the raw translation materials. The translation materials come from the online platform https://sider.ai/zh-CN/translator/text-translator.
+test23removerandom.m is the MATLAB running code.Am-LZMA.py is the python running code. The Amharic to English translation material is included by A-E.rar. Same content as E-R.rar.
+
+The files below whose suffixes are marked with the translation model are the raw translation materials. The translation materials come from the online platform https://sider.ai/zh-CN/translator/text-translator.
 
 I would like to express my sincere gratitude to my colleague, Lulu Yeshewas, for his invaluable contributions to the Amharic language. His link is provided below for your reference:https://github.com/yeshewas/Assessing-the-quality-of-some-machine-translation-systems-using-an-information-theoretic-RS-method
 
